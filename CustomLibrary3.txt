@@ -1,0 +1,5 @@
+Fundamentals of Database Systems (7th Edition),-55
+Database System Concepts,45
+Introductory Statistics with R,-95
+Database System Concepts,20
+Essentials of Database Management,25

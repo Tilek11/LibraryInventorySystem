@@ -1,0 +1,5 @@
+Essentials of Database Management,65
+Database Systems Using Oracle (2nd Edition),65
+Java Programming Languages,53
+Database Management Systems,53
+Database System Concepts,20

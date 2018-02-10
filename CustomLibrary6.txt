@@ -1,0 +1,6 @@
+Essentials of Database Management,65
+Fundamentals of Database Systems (7th Edition),-55
+Database Management Systems,53
+Java Programming Languages,53
+Database System Concepts,30
+Java: The Complete Reference Ninth Edition,45

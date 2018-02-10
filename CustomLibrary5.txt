@@ -1,0 +1,5 @@
+Database Management Systems,53
+Fundamentals of Database Systems (7th Edition),-55
+Database System Concepts,45
+A First Course in Database Systems,25
+Essentials of Database Management,25
